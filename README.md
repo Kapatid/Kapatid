@@ -7,7 +7,7 @@
 
 <div align="center">
   
-# 💫About Me
+# 👨‍💻About Me
   
 🌱 I’m currently learning [ReactJS](https://reactjs.org), [NextJS](https://nextjs.org), [SolidJS](https://www.solidjs.com), [VueJS](https://vuejs.org), and a student in CIIT College of Arts & Technology
 
@@ -29,11 +29,15 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![React JS](https://img.shields.io/badge/react-%2331A8FF.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Solid JS](https://img.shields.io/badge/solid-%2331A8FF.svg?style=for-the-badge&logo=solid&logoColor=white)
+![Vue JS](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=fff)
 
 <br>
 
@@ -45,7 +49,7 @@
 
 <br>
 
-# <img align="center" src="https://user-images.githubusercontent.com/62628408/170349921-b5e0c77d-8b16-4a7c-806c-ba977c8fd249.svg">Daily Dev
+<h1><img align="center" src="https://user-images.githubusercontent.com/62628408/170349921-b5e0c77d-8b16-4a7c-806c-ba977c8fd249.svg"> Daily Dev</h1>
 
 <a href="https://app.daily.dev/Kapatid"><img src="https://api.daily.dev/devcards/d39c35c6ca1b493495b4f97ebf95ccc8.png?r=oi1" width="400" alt="Kapatid's Dev Card"/></a>
 
