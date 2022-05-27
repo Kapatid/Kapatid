@@ -49,7 +49,7 @@
 
 <br>
 
-<h1><img align="center" src="https://user-images.githubusercontent.com/62628408/170349921-b5e0c77d-8b16-4a7c-806c-ba977c8fd249.svg"> Daily Dev</h1>
+<h1><img src="https://user-images.githubusercontent.com/62628408/170349921-b5e0c77d-8b16-4a7c-806c-ba977c8fd249.svg">Daily Dev</h1>
 
 <a href="https://app.daily.dev/Kapatid"><img src="https://api.daily.dev/devcards/d39c35c6ca1b493495b4f97ebf95ccc8.png?r=oi1" width="400" alt="Kapatid's Dev Card"/></a>
 
