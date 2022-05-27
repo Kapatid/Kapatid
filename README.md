@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 22px; height: 22px;">, I'm Kapatid
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px">, I'm Kapatid
 </h2>
 <p align="center">
   <a href="https://github.com/Kapatid/Kapatid/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page;I+am+Kapatid;I+am+a+College+student;Web+Dev"></a>
@@ -22,7 +22,7 @@
 
 <br>
 
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" style="width: 24px; height: 24px;"> Tech Stack
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px"> Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,7 +46,7 @@
 
 <br>
 
-# <div style="display: flex; justify-content: center;"><img src = "https://user-images.githubusercontent.com/62628408/170349921-b5e0c77d-8b16-4a7c-806c-ba977c8fd249.svg">Daily Dev</div>
+# <img src="https://user-images.githubusercontent.com/62628408/170349921-b5e0c77d-8b16-4a7c-806c-ba977c8fd249.svg" align="center"/>Daily Dev
 
 <a href="https://app.daily.dev/Kapatid"><img src="https://api.daily.dev/devcards/d39c35c6ca1b493495b4f97ebf95ccc8.png?r=oi1" width="400" alt="Kapatid's Dev Card"/></a>
 
