@@ -2,7 +2,7 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px">, I'm Nadji
 </h2>
 <p align="center">
-  <a href="https://github.com/Kapatid/Kapatid/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page;I+am+Kapatid;I+am+a+College+student;Web+Dev"></a>
+  <a href="https://github.com/nadjitan/nadjitan/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page;I+am+nadjitan;I+am+a+College+student;Web+Dev"></a>
 </p>
 
 <div align="center">
@@ -43,18 +43,18 @@
 
 # 📊GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Kapatid&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kapatid&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapatid&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nadjitan&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nadjitan&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadjitan&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
 # 📰Daily Dev
 
-<a href="https://app.daily.dev/Kapatid"><img src="https://api.daily.dev/devcards/d39c35c6ca1b493495b4f97ebf95ccc8.png?r=oi1" width="300" alt="Kapatid's Dev Card"/></a>
+<a href="https://app.daily.dev/nadjitan"><img src="https://api.daily.dev/devcards/d39c35c6ca1b493495b4f97ebf95ccc8.png?r=oi1" width="300" alt="nadjitan's Dev Card"/></a>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Kapatid&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=nadjitan&label=Visitors+Count&color=brightgreen)
 
 </div>
