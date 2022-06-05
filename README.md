@@ -51,7 +51,7 @@
 
 # 📰Daily Dev
 
-<a href="https://app.daily.dev/nadjitan"><img src="https://api.daily.dev/devcards/d39c35c6ca1b493495b4f97ebf95ccc8.png?r=oi1" width="300" alt="nadjitan's Dev Card"/></a>
+<a href="https://app.daily.dev/nadjitan"><img src="https://api.daily.dev/devcards/d39c35c6ca1b493495b4f97ebf95ccc8.png?r=ab6" width="300" alt="Nadji Tan's Dev Card"/></a>
 
 ---
 
