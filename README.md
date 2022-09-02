@@ -13,6 +13,8 @@
 
 ⚡ Fun fact: I love food & playing video games.
 
+✨ Inspiration: Want to be inspired? [link](https://gist.github.com/nadjitan/6e0c933f0058a4e569da2c3c04eecb81)
+
 ## 🌐Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/nadjiroi.tan/)
