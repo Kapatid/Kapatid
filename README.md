@@ -20,6 +20,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/nadjiroi.tan/)
 [![Twitter](https://img.shields.io/badge/Twitter-1da1f2.svg?logo=twitter&logoColor=white)](https://twitter.com/TanNadji)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadjitan/)
+[![Website](https://img.shields.io/badge/Website-000000.svg?logo=googlechrome&logoColor=white)](https://nadjitan.vercel.app/about)
 
 <br>
 
