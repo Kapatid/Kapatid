@@ -1,11 +1,11 @@
-<h2 align="center">
+<h2 align="left">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px">, I'm Nadji
 </h2>
-<p align="center">
+<p align="left">
   <a href="https://github.com/nadjitan/nadjitan/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page;I+am+nadjitan;A+BSCS+graduate;Web+Developer"></a>
 </p>
 
-<div align="center">
+<div align="left">
   
 # 👨‍💻About Me
   
@@ -15,7 +15,7 @@
 
 ✨ Inspiration: Want to be inspired? [link](https://gist.github.com/nadjitan/6e0c933f0058a4e569da2c3c04eecb81)
 
-## 🌐Socials
+### 🌐Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/nadjiroi.tan/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadjitan/)
