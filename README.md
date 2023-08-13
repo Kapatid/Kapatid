@@ -9,9 +9,9 @@
   
 # 👨‍💻About Me
   
-🌱 I’m currently learning [ReactJS](https://reactjs.org), [NextJS](https://nextjs.org), [SolidJS](https://www.solidjs.com), [VueJS](https://vuejs.org), and a student in CIIT College of Arts & Technology
+🌱 I’m currently learning [ReactJS](https://reactjs.org), [NextJS](https://nextjs.org), and a BSCS graduate in CIIT College of Arts & Technology
 
-⚡ Fun fact: I love food & playing video games.
+⚡ Fun fact: I love weightlifting, anime & manga.
 
 ✨ Inspiration: Want to be inspired? [link](https://gist.github.com/nadjitan/6e0c933f0058a4e569da2c3c04eecb81)
 
