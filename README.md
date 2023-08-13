@@ -2,7 +2,7 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px">, I'm Nadji
 </h2>
 <p align="center">
-  <a href="https://github.com/nadjitan/nadjitan/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page;I+am+nadjitan;I+am+a+College+student;Web+Dev"></a>
+  <a href="https://github.com/nadjitan/nadjitan/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page;I+am+nadjitan;A+BSCS+graduate;Web+Developer"></a>
 </p>
 
 <div align="center">
